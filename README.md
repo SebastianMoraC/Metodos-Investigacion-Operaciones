@@ -1,20 +1,17 @@
 # Metodos-Investigacion-Operaciones
 
-## The source code for one-phase simplex method and two-phase simplex method
+## El código fuente para el método simplex de una fase y el método simplex de dos fases
 
-This is a library written in Python for the simplex method in Linear Programming. The library includes one-phase simplex and two-phase simplex method.
+Esta es una biblioteca escrita en Python para el método simplex en Programación lineal. La biblioteca incluye el método simplex de una fase y el método simplex de dos fases.
 
-The library can solve the linear pramming problem with mixed constraints.
+La biblioteca puede resolver el problema de transporte lineal con restricciones mixtas.
 
-### File structure:
-- **simplex.py**: the implementation of one-phase simplex class
-- **simplex2.py**: the implementation of two-phase simplex class
-- **test_simplex.py**, **test_simplex2.py**: the script to test the library
-- **test_simplex.ipynb**, **test_simplex2.ipynb**: the test results in jupyter notebook
+### Estructura de Archivos:
+- **simplex.py**: la implemetación para simplex de una fase.
+- **simplex2.py**: la implemetación para simplex de dos fases.
+- **test_simplex.py**, **test_simplex2.py**: Testear la librería
 
-### Usage:
 
-#### One-phase simplex
-```python
-### Requirements
+
+### Requerimientos
 Python 3.x with **numpy** library installed.
