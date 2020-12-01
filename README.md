@@ -14,4 +14,4 @@ La biblioteca puede resolver el problema de transporte lineal con restricciones 
 
 
 ### Requerimientos
-Python 3.x with **numpy** library installed.
+Python 3.x con **numpy** librería instalada.
